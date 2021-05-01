@@ -2,7 +2,7 @@
 ## Historias de usuario
 ![UserStory](UserStory.png)
 
-## Clasificación según 
+## Clasificación según criticidad y frecuencia de uso
 ![Clasificacion](Clasific.png)
 
 ## Minimal System Span
